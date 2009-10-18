@@ -1,0 +1,11 @@
+body { 
+    margin: 0px; 
+    border-top: 10px solid #666; 
+    background-image: url(http://www.webhooks.org/static/bg.png); 
+    background-repeat: no-repeat;
+    background-position: center -20px;
+    text-align: center;
+}
+img { margin-top: 92px; margin-bottom: 15px; }
+p { font-family: helvetica; font-size: 36px; font-weight: bold; margin-top: 20px;}
+p a { margin-left: 10px; margin-right: 10px; color: #333; }
